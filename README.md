@@ -63,6 +63,7 @@ For this workshop you need the following:
 
 - A laptop (Windows, Mac, or Linux)
 - A ghoul
+- An arachnid
 - A manor
 - A free account for https://github.com
 - It is recommended to have a second screen for the hand-on labs
