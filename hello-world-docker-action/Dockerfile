@@ -2,7 +2,7 @@ FROM alpine:3.10
 
 WORKDIR /usr/src/app
 
-COPY entrypoint.sh .
+COPY hello-world-docker-action/entrypoint.sh .
 
 RUN chmod +x entrypoint.sh
 
